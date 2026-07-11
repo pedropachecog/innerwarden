@@ -1,3 +1,11 @@
+> [!NOTE]
+> **Historical fork.** I submitted a contribution to InnerWarden that was
+> reviewed and merged before the original upstream repository and pull request
+> became unavailable. This fork preserves the surviving code and history. For
+> the full explanation, exact patch, validation results, and supporting
+> evidence, see
+> [`innerwarden-ollama-tests`](https://github.com/pedropachecog/innerwarden-ollama-tests).
+
 # Inner Warden
 
 **Local safety layer for AI agents that can use the terminal.**
